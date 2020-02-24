@@ -1,4 +1,4 @@
-# Litkovv e golqm pedal
+# Litkovv
 Stanko shampiona vlizai v otbora we
 
 
