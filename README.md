@@ -1,4 +1,8 @@
 # Litkovv
-Stanko shampiona vlizai v otbora we
+public class Helloworld{
 
 
+public static void main (String [] args){
+System.out.println("Hello World1323");
+}
+}
